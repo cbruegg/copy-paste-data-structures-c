@@ -6,3 +6,6 @@ Operations on each data structure are prefixed with `ds_`. Since C doesn't have 
 
 # Disclaimer
 Don't expect your favorite data structure to be added here, unless you submit a PR ;-)
+
+# License
+MIT (basically: Do with it whatever you want).
